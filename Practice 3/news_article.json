@@ -1,0 +1,16 @@
+{
+    "articles": [
+      {
+        "title": "Technology Advances",
+        "description": "New AI technologies are transforming industries."
+      },
+      {
+        "title": "Sports Update",
+        "description": "The local team won the championship."
+      },
+      {
+        "title": "Health News",
+        "description": "Doctors recommend regular exercise for a healthy lifestyle."
+      }
+    ]
+  }
